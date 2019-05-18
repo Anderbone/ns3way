@@ -1,3 +1,3 @@
 # ns3way
-this is my ns3 journey.
+About how to 'hello world' in NS3
 Thank you
